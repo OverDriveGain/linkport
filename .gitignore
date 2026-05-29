@@ -1,0 +1,57 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+node_modules/
+.pnp
+.pnp.js
+
+# Nuxt build & generated files
+.nuxt/
+.dist/
+output/
+.output/
+.cache/
+
+# dotenv environment files
+.env
+.env.*.local
+
+# Editor & OS-specific files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# npm & yarn locks (optional, include if you use a different package manager)
+yarn.lock
+pnpm-lock.yaml
+
+# Typescript
+*.tsbuildinfo
+
+# Static generated files
+static/cache/
+
+# Lint & test cache
+.eslintcache
+jest/
+coverage/
+
+# Optional: Ignore local Firebase emulation files
+firebase-debug.log
+firestore-debug.log
+
+# Google Search Console credentials (OAuth client + refresh token)
+.gsc/
+
+# Gmail API token (reuses .gsc/credentials.json for OAuth client)
+.gmail/
+
