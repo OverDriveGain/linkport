@@ -4,7 +4,7 @@
     <div class="bg-gradient-to-br from-slate-900 to-slate-950 border-b border-slate-800 py-16 text-center px-4">
       <p class="section-label mb-3">Legal</p>
       <h1 class="font-display text-4xl font-bold text-white mb-3">Cookie Policy</h1>
-      <p class="text-slate-400 max-w-xl mx-auto">What cookies Linkport uses and why.</p>
+      <p class="text-slate-400 max-w-xl mx-auto">What cookies Assembr uses and why.</p>
       <p class="text-slate-500 text-sm mt-3">Last updated: May 30, 2026 [Placeholder — update before launch]</p>
     </div>
 
@@ -36,7 +36,7 @@
                 </p>
                 <div class="mt-3 grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs">
                   <div class="bg-slate-800 rounded-lg p-2.5">
-                    <span class="text-slate-300 font-mono">linkport_session</span>
+                    <span class="text-slate-300 font-mono">assembr_session</span>
                     <p class="text-slate-500 mt-1">Keeps you logged in. Expires when you close your browser or after 7 days.</p>
                   </div>
                   <div class="bg-slate-800 rounded-lg p-2.5">
@@ -69,14 +69,14 @@
       <section>
         <h2 class="text-white text-xl font-bold mb-4">No advertising cookies</h2>
         <p class="text-slate-400 leading-relaxed">
-          Linkport does not use advertising cookies, retargeting pixels, or any third-party tracking for marketing purposes. We will never sell your cookie data or share it with advertising networks.
+          Assembr does not use advertising cookies, retargeting pixels, or any third-party tracking for marketing purposes. We will never sell your cookie data or share it with advertising networks.
         </p>
       </section>
 
       <section>
         <h2 class="text-white text-xl font-bold mb-4">Managing cookies</h2>
         <p class="text-slate-400 leading-relaxed">
-          You can delete or block cookies in your browser settings at any time. Note that disabling essential cookies will prevent you from using the Linkport dashboard. For more on managing cookies, see your browser's documentation:
+          You can delete or block cookies in your browser settings at any time. Note that disabling essential cookies will prevent you from using the Assembr dashboard. For more on managing cookies, see your browser's documentation:
         </p>
         <ul class="mt-3 space-y-1 text-sm text-[#378FE9]">
           <li><a href="https://support.google.com/chrome/answer/95647" target="_blank" rel="noopener" class="hover:underline">Chrome</a></li>
@@ -95,8 +95,8 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: "Cookie Policy — Linkport",
-  description: "What cookies Linkport uses and why. Essential cookies only; no advertising tracking.",
+  title: "Cookie Policy — Assembr",
+  description: "What cookies Assembr uses and why. Essential cookies only; no advertising tracking.",
   robots: "index,follow",
 });
 </script>

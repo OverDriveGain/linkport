@@ -2,7 +2,7 @@
   <div>
     <ComingSoonPanel
       title="Community"
-      description="A full list of your community members, their seniority, industry, and engagement history. Round 3 wires this to real LinkedIn follower data."
+      description="A unified list of your community members across all connected platforms, their seniority, industry, and engagement history."
       :planned-features="['Follower list with filters (industry, seniority, location)', 'Engagement history per follower', 'Community health score', 'Churn detection', 'Top advocates leaderboard']"
     />
   </div>
@@ -14,7 +14,7 @@ definePageMeta({
 });
 
 useSeoMeta({
-  title: "Community — Linkport Dashboard",
+  title: "Community — Assembr Dashboard",
   robots: "noindex,nofollow",
 });
 </script>

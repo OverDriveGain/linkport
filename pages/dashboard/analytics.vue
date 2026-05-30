@@ -2,7 +2,7 @@
   <div>
     <ComingSoonPanel
       title="Analytics"
-      description="Detailed post performance charts, reach breakdowns, and engagement trends by content type. Real data will be pulled from the LinkedIn API in Round 3."
+      description="Detailed post performance charts, reach breakdowns, and engagement trends by content type — across all your connected platforms."
       :planned-features="['Impressions over time', 'Engagement rate by post type', 'Follower growth chart', 'Top-performing content tags', 'Audience reach vs. organic reach split']"
     />
   </div>
@@ -14,7 +14,7 @@ definePageMeta({
 });
 
 useSeoMeta({
-  title: "Analytics — Linkport Dashboard",
+  title: "Analytics — Assembr Dashboard",
   robots: "noindex,nofollow",
 });
 </script>

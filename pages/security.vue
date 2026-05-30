@@ -21,7 +21,7 @@
             </div>
             <div>
               <h3 class="text-white font-semibold mb-1">Encryption in transit and at rest</h3>
-              <p class="text-slate-400 text-sm leading-relaxed">All data transmitted between your browser and Linkport is encrypted using TLS 1.3. Data stored on our servers is encrypted at rest using AES-256.</p>
+              <p class="text-slate-400 text-sm leading-relaxed">All data transmitted between your browser and Assembr is encrypted using TLS 1.3. Data stored on our servers is encrypted at rest using AES-256.</p>
             </div>
           </div>
 
@@ -33,7 +33,7 @@
             </div>
             <div>
               <h3 class="text-white font-semibold mb-1">OAuth — no password storage</h3>
-              <p class="text-slate-400 text-sm leading-relaxed">Linkport uses LinkedIn's OAuth 2.0 — we never see or store your LinkedIn password. OAuth tokens are stored encrypted and rotated regularly. [Token rotation policy placeholder — TBD in Round 3].</p>
+              <p class="text-slate-400 text-sm leading-relaxed">Assembr uses each platform's OAuth 2.0 — we never see or store your passwords. OAuth tokens from LinkedIn and all future integrations are stored encrypted and rotated regularly.</p>
             </div>
           </div>
 
@@ -57,7 +57,7 @@
             </div>
             <div>
               <h3 class="text-white font-semibold mb-1">Principle of minimal access</h3>
-              <p class="text-slate-400 text-sm leading-relaxed">Linkport requests only the LinkedIn API scopes strictly required to display your analytics and schedule your content. We do not request write access beyond post scheduling. [Exact scopes TBD during LinkedIn API review].</p>
+              <p class="text-slate-400 text-sm leading-relaxed">Assembr requests only the API scopes strictly required per platform to display your analytics and schedule your content. For LinkedIn specifically, we do not request write access beyond post scheduling. Scopes are reviewed and minimized for each platform integration.</p>
             </div>
           </div>
         </div>
@@ -66,7 +66,7 @@
       <section>
         <h2 class="text-white text-xl font-bold mb-4">Responsible disclosure</h2>
         <p class="text-slate-400 leading-relaxed mb-4">
-          If you discover a security vulnerability in Linkport, we ask that you disclose it to us responsibly. Please do not publicly disclose the vulnerability until we have had a reasonable opportunity to investigate and address it.
+          If you discover a security vulnerability in Assembr, we ask that you disclose it to us responsibly. Please do not publicly disclose the vulnerability until we have had a reasonable opportunity to investigate and address it.
         </p>
         <p class="text-slate-400 leading-relaxed mb-6">
           We commit to acknowledging your report within <strong class="text-slate-300">72 hours</strong> and providing a resolution timeline within <strong class="text-slate-300">14 days</strong> for critical issues.
@@ -84,7 +84,7 @@
       <section>
         <h2 class="text-white text-xl font-bold mb-4">Bug bounty</h2>
         <p class="text-slate-400 leading-relaxed">
-          Linkport does not currently operate a formal bug bounty program. We appreciate responsible disclosure and will publicly acknowledge researchers who report valid vulnerabilities (with their permission). [Bug bounty program placeholder — may be introduced post-launch].
+          Assembr does not currently operate a formal bug bounty program. We appreciate responsible disclosure and will publicly acknowledge researchers who report valid vulnerabilities (with their permission). [Bug bounty program placeholder — may be introduced post-launch].
         </p>
       </section>
 
@@ -94,8 +94,8 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: "Security — Linkport",
-  description: "How Linkport protects your data and how to responsibly disclose security vulnerabilities.",
+  title: "Security — Assembr",
+  description: "How Assembr protects your data and how to responsibly disclose security vulnerabilities.",
   robots: "index,follow",
 });
 </script>

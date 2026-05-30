@@ -3,25 +3,25 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      title: "Linkport — LinkedIn Community Management at Scale",
+      title: "Assembr — Multi-Platform Community Management",
       meta: [
         { charset: "utf-8" },
         { name: "viewport", content: "width=device-width, initial-scale=1" },
         {
           name: "description",
           content:
-            "Build, engage, and grow your LinkedIn communities — at scale. Linkport helps community managers schedule posts, analyze audience insights, and automate engagement.",
+            "Build, engage, and grow communities across every platform you publish on. Assembr is the unified workspace for community managers — LinkedIn, Slack, Discord, and more.",
         },
         { property: "og:type", content: "website" },
         { property: "og:url", content: "https://linkedin.kaxtus.com" },
         {
           property: "og:title",
-          content: "Linkport — LinkedIn Community Management at Scale",
+          content: "Assembr — Multi-Platform Community Management",
         },
         {
           property: "og:description",
           content:
-            "Build, engage, and grow your LinkedIn communities — at scale.",
+            "One workspace for every community you run — LinkedIn, Slack, Discord, and more.",
         },
         {
           property: "og:image",

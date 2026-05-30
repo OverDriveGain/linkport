@@ -6,12 +6,12 @@
         <div class="md:col-span-1">
           <div class="flex items-center gap-2 mb-4">
             <div class="w-8 h-8 rounded-lg bg-[#0A66C2] flex items-center justify-center font-display font-bold text-white text-sm">
-              L
+              A
             </div>
-            <span class="font-display font-bold text-white text-lg">linkport</span>
+            <span class="font-display font-bold text-white text-lg">assembr</span>
           </div>
           <p class="text-slate-400 text-sm leading-relaxed">
-            Build, engage, and grow your LinkedIn communities — at scale.
+            One workspace for every community you run — across every platform you publish on.
           </p>
         </div>
 
@@ -47,7 +47,7 @@
 
       <div class="border-t border-slate-800 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-slate-500">
         <p>&copy; {{ new Date().getFullYear() }} Kaxtus. All rights reserved. [Placeholder — legal entity name TBD]</p>
-        <p class="text-xs">Powered by LinkedIn API. Not affiliated with LinkedIn Corporation.</p>
+        <p class="text-xs">Integrates with LinkedIn API and other platforms. Not affiliated with LinkedIn Corporation.</p>
       </div>
     </div>
   </footer>

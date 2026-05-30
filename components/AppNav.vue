@@ -4,9 +4,9 @@
       <!-- Logo -->
       <NuxtLink to="/" class="flex items-center gap-2 group">
         <div class="w-8 h-8 rounded-lg bg-[#0A66C2] flex items-center justify-center font-display font-bold text-white text-sm group-hover:bg-[#004182] transition-colors">
-          L
+          A
         </div>
-        <span class="font-display font-bold text-white text-lg tracking-tight">linkport</span>
+        <span class="font-display font-bold text-white text-lg tracking-tight">assembr</span>
       </NuxtLink>
 
       <!-- Desktop nav -->

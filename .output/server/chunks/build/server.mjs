@@ -635,56 +635,56 @@ const _routes = [
   {
     name: "cookies",
     path: "/cookies",
-    component: () => import('./cookies-D2MsFk9n.mjs')
+    component: () => import('./cookies-Bo0esOzo.mjs')
   },
   {
     name: "dashboard-analytics",
     path: "/dashboard/analytics",
     meta: __nuxt_page_meta$3 || {},
-    component: () => import('./analytics-DbEOgGVj.mjs')
+    component: () => import('./analytics-D85vb556.mjs')
   },
   {
     name: "dashboard-community",
     path: "/dashboard/community",
     meta: __nuxt_page_meta$2 || {},
-    component: () => import('./community-BPxewRjC.mjs')
+    component: () => import('./community-C1i3NIgx.mjs')
   },
   {
     name: "dashboard",
     path: "/dashboard",
     meta: __nuxt_page_meta$1 || {},
-    component: () => import('./index-BUkBSk6n.mjs')
+    component: () => import('./index-C8pAUaGB.mjs')
   },
   {
     name: "dashboard-scheduler",
     path: "/dashboard/scheduler",
     meta: __nuxt_page_meta || {},
-    component: () => import('./scheduler-4D7ybN5y.mjs')
+    component: () => import('./scheduler-9XeU3i0G.mjs')
   },
   {
     name: "data-deletion",
     path: "/data-deletion",
-    component: () => import('./data-deletion-BqXcP50r.mjs')
+    component: () => import('./data-deletion-D1rF5t27.mjs')
   },
   {
     name: "index",
     path: "/",
-    component: () => import('./index-CfWwlbl0.mjs')
+    component: () => import('./index-DOI1T9OU.mjs')
   },
   {
     name: "privacy",
     path: "/privacy",
-    component: () => import('./privacy-OOsrm9x8.mjs')
+    component: () => import('./privacy-CzbMX1yn.mjs')
   },
   {
     name: "security",
     path: "/security",
-    component: () => import('./security-BTOyEVEj.mjs')
+    component: () => import('./security-DnHkv7uK.mjs')
   },
   {
     name: "terms",
     path: "/terms",
-    component: () => import('./terms-BhBytCv7.mjs')
+    component: () => import('./terms-wcMg7xGe.mjs')
   }
 ];
 const _wrapInTransition = (props, children) => {
@@ -1093,8 +1093,8 @@ const plugins = [
   components_plugin_KR1HBZs4kY
 ];
 const layouts = {
-  dashboard: defineAsyncComponent(() => import('./dashboard-CNyrind7.mjs').then((m) => m.default || m)),
-  default: defineAsyncComponent(() => import('./default-CrEHgpN9.mjs').then((m) => m.default || m))
+  dashboard: defineAsyncComponent(() => import('./dashboard-8PV_hJVt.mjs').then((m) => m.default || m)),
+  default: defineAsyncComponent(() => import('./default-Dn820L1K.mjs').then((m) => m.default || m))
 };
 const LayoutLoader = defineComponent({
   name: "LayoutLoader",

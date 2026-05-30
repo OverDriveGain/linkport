@@ -4,9 +4,9 @@
     <div class="p-5 border-b border-slate-800">
       <NuxtLink to="/" class="flex items-center gap-2">
         <div class="w-7 h-7 rounded-md bg-[#0A66C2] flex items-center justify-center font-display font-bold text-white text-xs">
-          L
+          A
         </div>
-        <span class="font-display font-bold text-white">linkport</span>
+        <span class="font-display font-bold text-white">assembr</span>
       </NuxtLink>
     </div>
 
