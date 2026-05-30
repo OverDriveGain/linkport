@@ -6,12 +6,12 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: "Linkport — LinkedIn Community Management at Scale",
+  title: "Assembr — Multi-Platform Community Management",
   description:
-    "Build, engage, and grow your LinkedIn communities — at scale. Schedule posts, analyze audiences, and automate engagement with Linkport.",
-  ogTitle: "Linkport — LinkedIn Community Management at Scale",
+    "Build, engage, and grow communities across every platform you publish on. Schedule posts, analyze audiences, and automate engagement — starting with LinkedIn.",
+  ogTitle: "Assembr — Multi-Platform Community Management",
   ogDescription:
-    "Build, engage, and grow your LinkedIn communities — at scale.",
+    "One workspace for every community you run — across every platform.",
   ogImage: "https://linkedin.kaxtus.com/og-image.png",
   ogType: "website",
   twitterCard: "summary_large_image",

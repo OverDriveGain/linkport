@@ -1314,10 +1314,10 @@ const _sfc_main$2 = /* @__PURE__ */ defineComponent({
   __ssrInlineRender: true,
   setup(__props) {
     useSeoMeta({
-      title: "Linkport — LinkedIn Community Management at Scale",
-      description: "Build, engage, and grow your LinkedIn communities — at scale. Schedule posts, analyze audiences, and automate engagement with Linkport.",
-      ogTitle: "Linkport — LinkedIn Community Management at Scale",
-      ogDescription: "Build, engage, and grow your LinkedIn communities — at scale.",
+      title: "Assembr — Multi-Platform Community Management",
+      description: "Build, engage, and grow communities across every platform you publish on. Schedule posts, analyze audiences, and automate engagement — starting with LinkedIn.",
+      ogTitle: "Assembr — Multi-Platform Community Management",
+      ogDescription: "One workspace for every community you run — across every platform.",
       ogImage: "https://linkedin.kaxtus.com/og-image.png",
       ogType: "website",
       twitterCard: "summary_large_image"
