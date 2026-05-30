@@ -15,7 +15,7 @@ node_modules/
 .nuxt/
 .dist/
 output/
-.output/
+# .output/ is intentionally NOT ignored — build output is committed for cloud deploy
 .cache/
 
 # dotenv environment files
